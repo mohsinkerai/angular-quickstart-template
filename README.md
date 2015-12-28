@@ -5,10 +5,11 @@ version 0.12.1.
 
 Further customized with module structure and following components:
 - [Angular UI Router](http://angular-ui.github.io/ui-router/site/#/api/ui.router)
+- [Fonts-Awesome](https://fortawesome.github.io/Font-Awesome/)
 
 ## Build & development
 
-Run `grunt` for building and `grunt serve` for preview.
+Run `grunt` for building & dist and `grunt serve` for preview.
 
 ## Testing
 

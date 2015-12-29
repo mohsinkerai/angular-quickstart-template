@@ -1,5 +1,7 @@
 # angular-quickstart-template
 
+[![Build Status](https://travis-ci.org/mohsinkerai/angular-quickstart-template.svg?branch=master)](https://travis-ci.org/mohsinkerai/angular-quickstart-template)
+
 This project is originally generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.12.1.
 
